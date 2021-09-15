@@ -1,10 +1,12 @@
 # Análise de Dados em Linguagem R
 
+</br>
+
 <div align="justify">
   A linguagem R é uma linguagem de programação usada para análise estatística e visualização gráfica dos dados. Por meio do ambiente R, é possível preparar e explorar os dados, implementar técnicas estatísticas, construir modelos preditivos e apresentar os resultados por meio de gráficos, dashboards e documentos interativos. A linguagem R é muito versátil e possui diversos pacotes desenvolvidos para facilitar a aplicação de técnicas estatísticas, como análise de séries temporais, modelagem linear e não linear, classificação, predição, entre outras.
 </div> 
 
-</br>
+---
 
 **Ministrante** 
 
