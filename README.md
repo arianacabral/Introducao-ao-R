@@ -57,9 +57,9 @@ Ariana Moura Cabral
 ---
 
 ### Informações aos participantes
-
-**Plano de ensino** <br> 
-
+ </br> 
+**Plano de ensino**
+ </br> 
 1. Apresentação do R e do RStudio  
   - Instalação do R e RStudio;  
   - Explorando o RStudio;  
@@ -79,7 +79,6 @@ Ariana Moura Cabral
 5. Visualização dos dados
   - Visualizando um sinal sintético com dygraphs;
   - Visualizando um sinal biomédico com dygraphs;
-
 
 </br>
 
