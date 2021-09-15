@@ -57,9 +57,9 @@ Ariana Moura Cabral
 ---
 
 ### Informações aos participantes
- </br> 
-**Plano de ensino**
- </br> 
+
+
+**Plano de ensino** </br> 
 1. Apresentação do R e do RStudio  
   - Instalação do R e RStudio;  
   - Explorando o RStudio;  
